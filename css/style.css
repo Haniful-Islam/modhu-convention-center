@@ -1,8 +1,66 @@
+/* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Lato:ital,wght@0,300;0,400;1,700&family=Poppins:wght@400;600;700&display=swap');
+
 
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 .button-bg-color{
     background-color: #fff;
 }
+/* our package */
+.package-button{
+    width:207px;
+    height: 45px;
+    color:#3F87F5;
+    background-color:#f496d23b;
+    border-radius: 24px;
+    text-align:center;
+    margin-left: 15px;
+}
+.package-button-white{
+    width:232px;
+    height: 45px;
+    color:#3F87F5;
+    background-color:#fff;
+    border-radius: 24px;
+    margin-left: 25px;
+    
+}
+.fa-check{
+    color:#5243C2;
+    background-color: #e5e5e586;
+    padding: 7px;
+    border-radius: 50%;
+    
+}
+.check-color{
+    color:#fff;
+    background-color:rgba(255, 255, 255, 0.123) ;
+}
+.card-three{
+    background-color: #3F87F5;
+    padding:10px;
+    border-radius: 26px;
+    box-shadow: 5px 5px 20px rgba(63, 135, 245, 0.25)
+
+
+
+/*
+ <div class="card border-0 h-100">
+                        <div class="card-body">
+                            <h1 class="card-title">$300</h1>
+                            <h1>Business fair</h1>
+                            <p class="card-text">For most businesses event
+                                like book fair, craft fair.</p>
+                            <div class="mt-2"><i class="fas fa-check"></i> limited space access</div>
+                            <div class="mt-2"><i class="fas fa-check"></i> Secuirty facility</div>
+                            <div class="mt-2"><i class="fas fa-check"></i> event support</div>
+                            <div class="mt-2"><i class="fas fa-check"></i> Pecoration design</div>
+                            <div class="mt-2"><i class="fas fa-check"></i> Per day bill</div>
+                            <button class="btn package-button mt-4">Choose plan</button>
+                        </div>
+                    </div>
+
+*/
