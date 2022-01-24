@@ -15,7 +15,10 @@ body{
 }
 /* slider button */
 .button-bg-color{
+    text-transform: capitalize;
+    color:#3F87F5;
     background-color: #fff;
+    font-weight: 700;
 }
 /* weddign section */
 .wedding{
